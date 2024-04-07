@@ -2,11 +2,8 @@ package gr.aegean.bookclientspring.client;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 
